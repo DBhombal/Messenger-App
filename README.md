@@ -3,6 +3,8 @@ Android Studio based messenger app, it was created as the final project for the 
 
 **THIS APP IS STILL INCOMPLETE, I have some future development plans that I was unable to fit into the schedule. I plan to make future changes to this app to improve upon it.**
 
+I will upload the source code, and apk.
+
 The app uses user authentication, and allows the sending of messages. 
 Currently, everything is stored locally, I have plans of shifting it to Firebase to solve this. 
 
